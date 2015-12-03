@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Zomato Chennai Relief Fund",
+    "link": "https://www.zomato.com/chennai/chennai-flood-relief-nungambakkam",
+    "currency": "rupee"
+  },
+  {
+    "name": "Milaap - Cudalore flood",
+    "link": "https://milaap.org/campaigns/cuddaloreflood",
+    "currency": "rupee"
+  },
+  {
+    "name": "Milaap - Chennai flood",
+    "link": "https://milaap.org/campaigns/Chennaifloods",
+    "currency": "rupee"
+  },
+  {
+    "name": "Go Fund Me 1",
+    "link": "https://www.gofundme.com/fgcyx6yk"  ,
+    "currency": "dollar"
+  },
+  {
+    "name": "Go Fund Me 2",
+    "link": "https://www.gofundme.com/helpchennai",
+    "currency": "dollar"
+  }  
+]
